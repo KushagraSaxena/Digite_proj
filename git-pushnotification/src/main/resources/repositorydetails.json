@@ -1,0 +1,24 @@
+{
+  "projectDetails": [
+    {
+      "projectName": "Contact-MS",
+      "id":1234,
+      "repositoryPath": "/contact-ms/src/main/java/com/digite/ms/contact/ContactCreation.java"
+    },
+    {
+      "projectName": "Contact-MS",
+      "id":1235,
+      "repositoryPath": "/contact-ms/src/main/java/com/digite/ms/contact/ContactRetrieve.java"
+    },
+    {
+      "projectName": "Contact-MS",
+      "id":1236,
+      "repositoryPath": "/contact-ms/src/main/java/com/digite/ms/contact/ContactUpdate.java"
+    },
+    {
+      "projectName": "Contact-MS",
+      "id":1237,
+      "repositoryPath": "/contact-ms/src/main/java/com/digite/ms/contact/ContactDelete.java"
+    }
+  ]
+}
